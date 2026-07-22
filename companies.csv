@@ -2,3 +2,786 @@ company_name,ats_type,slug_or_url,careers_url,active,source,added
 Stripe,greenhouse,stripe,https://boards.greenhouse.io/stripe,yes,starter,2026-07-22
 Coinbase,greenhouse,coinbase,https://boards.greenhouse.io/coinbase,yes,starter,2026-07-22
 Ramp,ashby,ramp,https://jobs.ashbyhq.com/ramp,yes,starter,2026-07-22
+CircuitHub,ashby,circuithub,https://circuithub.com,yes,yc-seed,2026-07-22
+Rescale,ashby,rescale,https://rescale.com,yes,yc-seed,2026-07-22
+Gusto,greenhouse,gusto,https://gusto.com,yes,yc-seed,2026-07-22
+Amplitude,greenhouse,amplitude,https://amplitude.com,yes,yc-seed,2026-07-22
+Y Combinator,ashby,ycombinator,https://www.ycombinator.com,yes,yc-seed,2026-07-22
+Apollo,ashby,apollo-graphql,http://apollographql.com/,yes,yc-seed,2026-07-22
+OneSignal,scrape,https://onesignal.com,https://onesignal.com,no,yc-seed,2026-07-22
+Streak,scrape,http://streak.com,http://streak.com,no,yc-seed,2026-07-22
+Quartzy,lever,quartzy,https://www.quartzy.com,yes,yc-seed,2026-07-22
+AgileMD,scrape,https://agilemd.com,https://agilemd.com,no,yc-seed,2026-07-22
+Sift,ashby,sift,https://sift.com/,yes,yc-seed,2026-07-22
+MixRank,scrape,https://mixrank.com,https://mixrank.com,no,yc-seed,2026-07-22
+GOAT Group,greenhouse,goatgroup,https://www.goatgroup.com/,yes,yc-seed,2026-07-22
+SmartAsset,greenhouse,smartasset,http://smartasset.com,yes,yc-seed,2026-07-22
+Zapier,ashby,zapier,http://zapier.com,yes,yc-seed,2026-07-22
+Instacart,greenhouse,instacart,https://www.instacart.com,yes,yc-seed,2026-07-22
+BuildZoom,lever,buildzoom,https://www.buildzoom.com,yes,yc-seed,2026-07-22
+Padlet,ashby,padlet,https://padlet.com,yes,yc-seed,2026-07-22
+InfluxData,ashby,influxdata,https://influxdata.com,yes,yc-seed,2026-07-22
+RADAR,greenhouse,radar,https://goradar.com,yes,yc-seed,2026-07-22
+Goldbelly,scrape,https://www.goldbelly.com/,https://www.goldbelly.com/,no,yc-seed,2026-07-22
+Lob,greenhouse,lob,http://lob.com,yes,yc-seed,2026-07-22
+Webflow,greenhouse,webflow,https://webflow.com,yes,yc-seed,2026-07-22
+AptDeco,scrape,https://www.aptdeco.com/,https://www.aptdeco.com/,no,yc-seed,2026-07-22
+Noora Health,scrape,http://noorahealth.org,http://noorahealth.org,no,yc-seed,2026-07-22
+Flexport,greenhouse,flexport,https://www.flexport.com/careers/jobs/,yes,yc-seed,2026-07-22
+Algolia,greenhouse,algolia,http://www.algolia.com,yes,yc-seed,2026-07-22
+Checkr,greenhouse,checkr,http://www.checkr.com,yes,yc-seed,2026-07-22
+PicnicAI,greenhouse,embed,https://picnic.ai,yes,yc-seed,2026-07-22
+ShipBob,scrape,http://shipbob.com,http://shipbob.com,no,yc-seed,2026-07-22
+Hive,greenhouse,hive,http://www.hive.co,yes,yc-seed,2026-07-22
+Ginkgo Bioworks,greenhouse,ginkgobioworks,http://ginkgobioworks.com,yes,yc-seed,2026-07-22
+Notable Labs,ashby,notable,http://notablelabs.com,yes,yc-seed,2026-07-22
+Qventus,greenhouse,qventus,http://qventus.com,yes,yc-seed,2026-07-22
+Magic,scrape,https://getmagic.com/,https://getmagic.com/,no,yc-seed,2026-07-22
+Tempo,greenhouse,tempo,https://tempo.fit/,yes,yc-seed,2026-07-22
+EquipmentShare,scrape,https://www.equipmentshare.com,https://www.equipmentshare.com,no,yc-seed,2026-07-22
+Giveffect,scrape,http://giveffect.com,http://giveffect.com,no,yc-seed,2026-07-22
+Razorpay,greenhouse,razorpaysoftwareprivatelimited,https://razorpay.com,yes,yc-seed,2026-07-22
+Tab,scrape,https://www.tab.travel,https://www.tab.travel,no,yc-seed,2026-07-22
+Tara AI,scrape,http://www.tara.ai,http://www.tara.ai,no,yc-seed,2026-07-22
+Mashgin,lever,mashgin,http://mashgin.com,yes,yc-seed,2026-07-22
+Lugg,scrape,http://lugg.com,http://lugg.com,no,yc-seed,2026-07-22
+Ironclad,ashby,ironcladhq,http://ironcladapp.com,yes,yc-seed,2026-07-22
+New Story,greenhouse,new,http://newstoryhomes.org,yes,yc-seed,2026-07-22
+Gemnote,scrape,http://gemnote.com,http://gemnote.com,no,yc-seed,2026-07-22
+SnapMagic,ashby,snapmagic,https://www.snapmagic.com,yes,yc-seed,2026-07-22
+Heroic Labs,scrape,http://heroiclabs.com,http://heroiclabs.com,no,yc-seed,2026-07-22
+Reach,greenhouse,reach,https://reachpower.com,yes,yc-seed,2026-07-22
+Verge Genomics,ashby,verge-genomics,http://vergegenomics.com,yes,yc-seed,2026-07-22
+Drip Capital,scrape,http://dripcapital.com,http://dripcapital.com,no,yc-seed,2026-07-22
+GiveCampus,greenhouse,givecampus,http://go.givecampus.com,yes,yc-seed,2026-07-22
+Circle Medical,ashby,circle,https://circlemedical.com,yes,yc-seed,2026-07-22
+Shape (ShapeScale),scrape,https://shapescale.com,https://shapescale.com,no,yc-seed,2026-07-22
+Xendit,greenhouse,xendit,https://www.xendit.co/,yes,yc-seed,2026-07-22
+Go1,scrape,https://go1.com,https://go1.com,no,yc-seed,2026-07-22
+Bitmovin,greenhouse,bitmovin,http://bitmovin.com,yes,yc-seed,2026-07-22
+Instawork,greenhouse,instawork,http://instawork.com,yes,yc-seed,2026-07-22
+Eight Sleep,ashby,eightsleep,http://eightsleep.com,yes,yc-seed,2026-07-22
+Human Interest,greenhouse,humaninterest,http://humaninterest.com,yes,yc-seed,2026-07-22
+Mux,ashby,mux,http://mux.com,yes,yc-seed,2026-07-22
+Lattice,greenhouse,lattice,https://lattice.com,yes,yc-seed,2026-07-22
+SOUNDBOKS,scrape,http://soundboks.com,http://soundboks.com,no,yc-seed,2026-07-22
+Deepgram,ashby,deepgram,https://www.deepgram.com,yes,yc-seed,2026-07-22
+iSono Health,scrape,http://www.isonohealth.com,http://www.isonohealth.com,no,yc-seed,2026-07-22
+Tovala,lever,tovala,http://www.tovala.com,yes,yc-seed,2026-07-22
+Mason,scrape,http://www.bymason.com,http://www.bymason.com,no,yc-seed,2026-07-22
+PocketSuite,scrape,https://pocketsuite.io,https://pocketsuite.io,no,yc-seed,2026-07-22
+Castle,ashby,castle,https://castle.io,yes,yc-seed,2026-07-22
+Netomi,lever,netomi,https://netomi.com,yes,yc-seed,2026-07-22
+Function of Beauty,scrape,http://www.functionofbeauty.com,http://www.functionofbeauty.com,no,yc-seed,2026-07-22
+Podium,greenhouse,podium81,https://podium.com,yes,yc-seed,2026-07-22
+Apollo.io,greenhouse,apolloio,https://www.apollo.io/,yes,yc-seed,2026-07-22
+Thunkable,lever,thunkable,http://thunkable.com,yes,yc-seed,2026-07-22
+Gecko Robotics,ashby,gecko-robotics,https://www.geckorobotics.com,yes,yc-seed,2026-07-22
+Sendbird,greenhouse,sendbird,https://sendbird.com,yes,yc-seed,2026-07-22
+Rappi,scrape,http://www.rappi.com,http://www.rappi.com,no,yc-seed,2026-07-22
+BillionToOne,greenhouse,billiontoone,https://www.billiontoone.com,yes,yc-seed,2026-07-22
+Vetcove,ashby,vetcove,https://www.vetcove.com,yes,yc-seed,2026-07-22
+Joy,scrape,http://withjoy.com,http://withjoy.com,no,yc-seed,2026-07-22
+Instrumentl,lever,Instrumentl,https://www.instrumentl.com,yes,yc-seed,2026-07-22
+Nova Credit,greenhouse,novacredit,http://www.novacredit.com/,yes,yc-seed,2026-07-22
+OneChronos,ashby,onechronos,https://www.onechronos.com/,yes,yc-seed,2026-07-22
+Women Who Code,scrape,https://www.womenwhocode.com/,https://www.womenwhocode.com/,no,yc-seed,2026-07-22
+Legalist,greenhouse,legalist,https://www.legalist.com,yes,yc-seed,2026-07-22
+GoGoGrandparent,scrape,https://gogograndparent.com,https://gogograndparent.com,no,yc-seed,2026-07-22
+Meesho,lever,meesho,http://www.meesho.com,yes,yc-seed,2026-07-22
+Athelas,ashby,Commure-Athelas,http://athelas.com,yes,yc-seed,2026-07-22
+Scale AI,greenhouse,scaleai,http://scale.com,yes,yc-seed,2026-07-22
+People.ai,lever,people-ai,https://people.ai,yes,yc-seed,2026-07-22
+ClassDojo,ashby,classdojo,http://www.classdojo.com,yes,yc-seed,2026-07-22
+Voiceops,scrape,https://voiceops.com,https://voiceops.com,no,yc-seed,2026-07-22
+Speak,ashby,speak,http://speak.com,yes,yc-seed,2026-07-22
+Bountiful,scrape,https://bountiful.ag/,https://bountiful.ag/,no,yc-seed,2026-07-22
+Rippling,scrape,http://rippling.com/,http://rippling.com/,no,yc-seed,2026-07-22
+MDalgorithms Inc.,scrape,https://www.mdalgorithms.com,https://www.mdalgorithms.com,no,yc-seed,2026-07-22
+Ledger Investing,lever,ledger,https://ledgerinvesting.com/,yes,yc-seed,2026-07-22
+Clipboard,ashby,clipboard,https://www.clipboardworks.com/careers,yes,yc-seed,2026-07-22
+Ambient.ai,ashby,ambient,https://ambient.ai,yes,yc-seed,2026-07-22
+Mednet,ashby,mednet,https://www.themednet.org,yes,yc-seed,2026-07-22
+"Veryfi, Inc.",scrape,https://www.veryfi.com/,https://www.veryfi.com/,no,yc-seed,2026-07-22
+Collectly,lever,CollectlyInc,http://collectly.co/,yes,yc-seed,2026-07-22
+AlemHealth,scrape,https://www.alemhealth.com,https://www.alemhealth.com,no,yc-seed,2026-07-22
+AON3D,greenhouse,aon3d,https://www.aon3d.com,yes,yc-seed,2026-07-22
+NanoNets,greenhouse,nanonets,https://nanonets.com,yes,yc-seed,2026-07-22
+"Wifi Dabba, Inc.",scrape,https://dabba.com,https://dabba.com,no,yc-seed,2026-07-22
+OneFin,scrape,https://www.onefin.in,https://www.onefin.in,no,yc-seed,2026-07-22
+Faire,greenhouse,faire,https://www.faire.com/,yes,yc-seed,2026-07-22
+Ridecell,scrape,https://www.ridecell.com,https://www.ridecell.com,no,yc-seed,2026-07-22
+VergeSense,lever,vergesense,http://www.vergesense.com,yes,yc-seed,2026-07-22
+Bloom Institute of Technology,lever,bloom,https://www.bloomtech.com,yes,yc-seed,2026-07-22
+UpCodes,ashby,upcodes,https://up.codes/,yes,yc-seed,2026-07-22
+Standard AI,scrape,https://standard.ai,https://standard.ai,no,yc-seed,2026-07-22
+SafeButler,scrape,https://www.safebutler.com,https://www.safebutler.com,no,yc-seed,2026-07-22
+Flock Safety,ashby,flock,http://www.flocksafety.com,yes,yc-seed,2026-07-22
+Prelim,ashby,prelim,https://prelim.com/,yes,yc-seed,2026-07-22
+D-ID,scrape,http://www.d-id.com,http://www.d-id.com,no,yc-seed,2026-07-22
+Muzz,scrape,https://muzz.com,https://muzz.com,no,yc-seed,2026-07-22
+May Mobility,greenhouse,maymobility,http://maymobility.com,yes,yc-seed,2026-07-22
+AssemblyAI,greenhouse,assemblyai,https://www.assemblyai.com,yes,yc-seed,2026-07-22
+Routable,scrape,https://routable.com,https://routable.com,no,yc-seed,2026-07-22
+Just Appraised,scrape,https://www.justappraised.com,https://www.justappraised.com,no,yc-seed,2026-07-22
+Gem,scrape,https://www.gem.com/,https://www.gem.com/,no,yc-seed,2026-07-22
+Cashfree Payments,scrape,https://www.cashfree.com/,https://www.cashfree.com/,no,yc-seed,2026-07-22
+Proven Group,scrape,https://www.provenskincare.com,https://www.provenskincare.com,no,yc-seed,2026-07-22
+Fondo,scrape,https://fondo.com,https://fondo.com,no,yc-seed,2026-07-22
+CoinTracker,ashby,cointracker,https://cointracker.com,yes,yc-seed,2026-07-22
+Modern Health,greenhouse,modernhealth,https://www.modernhealth.com/,yes,yc-seed,2026-07-22
+Vanta,ashby,vanta,https://vanta.com,yes,yc-seed,2026-07-22
+BioRender,lever,biorender,https://www.biorender.com,yes,yc-seed,2026-07-22
+Sourcify,scrape,https://www.sourcify.com/,https://www.sourcify.com/,no,yc-seed,2026-07-22
+Acely,scrape,https://acely.com,https://acely.com,no,yc-seed,2026-07-22
+Players' Lounge,scrape,https://playerslounge.co/,https://playerslounge.co/,no,yc-seed,2026-07-22
+Substack,ashby,substack,https://substack.com,yes,yc-seed,2026-07-22
+Pelago,greenhouse,pelago,https://www.pelagohealth.com,yes,yc-seed,2026-07-22
+SafetyWing,scrape,http://www.safetywing.com,http://www.safetywing.com,no,yc-seed,2026-07-22
+Aspire,scrape,https://aspireapp.com,https://aspireapp.com,no,yc-seed,2026-07-22
+Orangewood Labs,scrape,http://www.orangewood.co,http://www.orangewood.co,no,yc-seed,2026-07-22
+Groww,greenhouse,groww,https://groww.in,yes,yc-seed,2026-07-22
+ArchForm,scrape,http://archform.com,http://archform.com,no,yc-seed,2026-07-22
+CaptivateIQ,lever,captivateiq,https://www.captivateiq.com,yes,yc-seed,2026-07-22
+Runa,scrape,http://runahr.com/,http://runahr.com/,no,yc-seed,2026-07-22
+Helloverify,scrape,https://www.helloverify.ae,https://www.helloverify.ae,no,yc-seed,2026-07-22
+Swayable,greenhouse,swayable,http://swayable.com,yes,yc-seed,2026-07-22
+Replit,ashby,replit,https://replit.com,yes,yc-seed,2026-07-22
+OWNY,scrape,https://www.owny.com,https://www.owny.com,no,yc-seed,2026-07-22
+Klarity,ashby,klarity-ai,http://klarity.ai,yes,yc-seed,2026-07-22
+Modern Treasury,ashby,moderntreasury,http://www.moderntreasury.com/,yes,yc-seed,2026-07-22
+Verse Medical,ashby,versemedical,http://versemedical.com/,yes,yc-seed,2026-07-22
+RevenueCat,ashby,revenuecat,https://www.revenuecat.com/,yes,yc-seed,2026-07-22
+Activeloop,scrape,https://activeloop.ai/,https://activeloop.ai/,no,yc-seed,2026-07-22
+Data Driven Bioscience,scrape,http://datadrivenbioscience.com,http://datadrivenbioscience.com,no,yc-seed,2026-07-22
+Inscribe,ashby,InscribeAI,https://www.inscribe.ai/,yes,yc-seed,2026-07-22
+JITX,lever,jitxinc,http://www.jitx.com,yes,yc-seed,2026-07-22
+Meru Health,greenhouse,meruhealth,http://www.meruhealth.com,yes,yc-seed,2026-07-22
+Duffel,ashby,duffel,https://duffel.com/,yes,yc-seed,2026-07-22
+Quickchat AI,scrape,https://quickchat.ai/,https://quickchat.ai/,no,yc-seed,2026-07-22
+"DreamCraft Entertainment, Inc.",scrape,https://www.dreamcraft.com/,https://www.dreamcraft.com/,no,yc-seed,2026-07-22
+Pine Park Health,greenhouse,pine,http://pineparkhealth.com,yes,yc-seed,2026-07-22
+Mytos,lever,mytos,https://www.mytos.bio,yes,yc-seed,2026-07-22
+BlueCargo,scrape,http://www.bluecargo.io/,http://www.bluecargo.io/,no,yc-seed,2026-07-22
+Alpha Vantage,scrape,https://www.alphavantage.co/,https://www.alphavantage.co/,no,yc-seed,2026-07-22
+Canary Technologies,lever,canarytechnologies,https://www.canarytechnologies.com,yes,yc-seed,2026-07-22
+Prodigal,greenhouse,prodigal,https://prodigaltech.com/,yes,yc-seed,2026-07-22
+ZiffyHomes,scrape,https://www.ziffyhomes.com/,https://www.ziffyhomes.com/,no,yc-seed,2026-07-22
+Nestor,scrape,https://nestorup.com,https://nestorup.com,no,yc-seed,2026-07-22
+Eden,scrape,https://edenmed.com,https://edenmed.com,no,yc-seed,2026-07-22
+Mutiny,ashby,mutiny,https://www.mutinyhq.com,yes,yc-seed,2026-07-22
+Leena AI,scrape,https://www.leena.ai,https://www.leena.ai,no,yc-seed,2026-07-22
+JuziBot,scrape,https://www.juzibot.com/,https://www.juzibot.com/,no,yc-seed,2026-07-22
+Oxygen,scrape,http://getoxygen.com,http://getoxygen.com,no,yc-seed,2026-07-22
+Overview,ashby,overview,https://overview.ai,yes,yc-seed,2026-07-22
+Flockjay,scrape,https://flockjay.com,https://flockjay.com,no,yc-seed,2026-07-22
+Keeper,scrape,https://keepertax.com,https://keepertax.com,no,yc-seed,2026-07-22
+Kalshi,greenhouse,kalshi,https://www.kalshi.com,yes,yc-seed,2026-07-22
+Centaur,scrape,https://centaur.ai/,https://centaur.ai/,no,yc-seed,2026-07-22
+Sorting Robotics,scrape,https://www.sortingrobotics.com/,https://www.sortingrobotics.com/,no,yc-seed,2026-07-22
+Dyneti Technologies,ashby,dyneti,http://www.dyneti.com,yes,yc-seed,2026-07-22
+Postscript,greenhouse,postscript,https://postscript.io,yes,yc-seed,2026-07-22
+Middesk,ashby,middesk,http://www.middesk.com,yes,yc-seed,2026-07-22
+GoLinks,ashby,golinks,https://www.golinks.io,yes,yc-seed,2026-07-22
+Community Phone Company,greenhouse,community,https://www.communityphone.org/,yes,yc-seed,2026-07-22
+Sapling.ai,lever,sapling,https://sapling.ai,yes,yc-seed,2026-07-22
+Nabis,greenhouse,nabis,https://www.nabis.com/,yes,yc-seed,2026-07-22
+Swadesh,scrape,http://www.swadesh.co,http://www.swadesh.co,no,yc-seed,2026-07-22
+Okteto,scrape,https://okteto.com,https://okteto.com,no,yc-seed,2026-07-22
+Ashby,ashby,ashby,https://www.ashbyhq.com,yes,yc-seed,2026-07-22
+Bunkerhill Health,ashby,bunkerhillhealth,http://bunkerhillhealth.com,yes,yc-seed,2026-07-22
+Handle,scrape,https://www.handle.com,https://www.handle.com,no,yc-seed,2026-07-22
+Landed,scrape,https://www.gotlanded.com,https://www.gotlanded.com,no,yc-seed,2026-07-22
+Deel,ashby,Deel,https://www.deel.com/,yes,yc-seed,2026-07-22
+Axel Travel,ashby,axel,https://helloaxel.com/,yes,yc-seed,2026-07-22
+Doppler,ashby,doppler,https://doppler.com,yes,yc-seed,2026-07-22
+Alpaca,greenhouse,alpaca,https://alpaca.markets/,yes,yc-seed,2026-07-22
+Dover,scrape,https://dover.com,https://dover.com,no,yc-seed,2026-07-22
+NALA,scrape,http://nala.com,http://nala.com,no,yc-seed,2026-07-22
+Zippi,lever,zippi,https://www.zippi.com.br,yes,yc-seed,2026-07-22
+Beacons,ashby,beacons,https://beacons.ai/,yes,yc-seed,2026-07-22
+Cityfurnish,scrape,https://cityfurnish.com/,https://cityfurnish.com/,no,yc-seed,2026-07-22
+Inito,scrape,https://www.inito.com/,https://www.inito.com/,no,yc-seed,2026-07-22
+Verto,ashby,verto,http://www.vertofx.com,yes,yc-seed,2026-07-22
+Numero,scrape,https://www.numero.ai,https://www.numero.ai,no,yc-seed,2026-07-22
+Shef,scrape,https://www.shef.com,https://www.shef.com,no,yc-seed,2026-07-22
+Vouch,scrape,http://vouch.us,http://vouch.us,no,yc-seed,2026-07-22
+Dex,ashby,dex,https://getdex.com,yes,yc-seed,2026-07-22
+Apero Health,scrape,https://www.aperohealth.com,https://www.aperohealth.com,no,yc-seed,2026-07-22
+Method Financial,greenhouse,method,https://methodfi.com,yes,yc-seed,2026-07-22
+Pillar,scrape,https://www.pillar.io,https://www.pillar.io,no,yc-seed,2026-07-22
+Odeko,greenhouse,odeko,http://www.odeko.com,yes,yc-seed,2026-07-22
+Short Story,ashby,shortstory,https://shortstorybox.com,yes,yc-seed,2026-07-22
+Zeal,scrape,https://www.zeal.com,https://www.zeal.com,no,yc-seed,2026-07-22
+Pair Team,greenhouse,pairteam,https://pairteam.com/,yes,yc-seed,2026-07-22
+Prolific,greenhouse,prolific,https://www.prolific.com,yes,yc-seed,2026-07-22
+Embrace,greenhouse,embrace,https://embrace.io,yes,yc-seed,2026-07-22
+Yummy Future,scrape,https://yummy-future.com,https://yummy-future.com,no,yc-seed,2026-07-22
+Banner,scrape,https://withbanner.com,https://withbanner.com,no,yc-seed,2026-07-22
+Canix,scrape,https://www.canix.com/,https://www.canix.com/,no,yc-seed,2026-07-22
+Rutter,ashby,rutter,https://rutter.com,yes,yc-seed,2026-07-22
+Wasmer,scrape,https://wasmer.io,https://wasmer.io,no,yc-seed,2026-07-22
+Binks,scrape,https://getbinks.com/,https://getbinks.com/,no,yc-seed,2026-07-22
+Vahan,scrape,https://vahan.ai,https://vahan.ai,no,yc-seed,2026-07-22
+FamPay,lever,fampay,https://fampay.in,yes,yc-seed,2026-07-22
+Recidiviz,greenhouse,recidiviz,https://www.recidiviz.org/,yes,yc-seed,2026-07-22
+InEvent,scrape,https://inevent.com,https://inevent.com,no,yc-seed,2026-07-22
+Freshpaint,ashby,freshpaint,https://freshpaint.io,yes,yc-seed,2026-07-22
+Curri,ashby,curri,http://www.curri.com,yes,yc-seed,2026-07-22
+Deepnote,ashby,deepnote,https://www.deepnote.com/,yes,yc-seed,2026-07-22
+Taskade,scrape,https://www.taskade.com,https://www.taskade.com,no,yc-seed,2026-07-22
+Motion,scrape,https://www.usemotion.com/,https://www.usemotion.com/,no,yc-seed,2026-07-22
+Karat Financial,greenhouse,karat,http://trykarat.com,yes,yc-seed,2026-07-22
+Accord,ashby,accord,https://inaccord.com,yes,yc-seed,2026-07-22
+Paragon,ashby,paragon,http://useparagon.com,yes,yc-seed,2026-07-22
+Pulley,greenhouse,pulley,https://pulley.com,yes,yc-seed,2026-07-22
+Ophelia,greenhouse,ophelia,https://ophelia.com,yes,yc-seed,2026-07-22
+OpenUnit,scrape,https://www.openunit.com/,https://www.openunit.com/,no,yc-seed,2026-07-22
+Ditto,ashby,ditto,http://dittowords.com,yes,yc-seed,2026-07-22
+Handoff,lever,handoff,https://www.handoff.ai/,yes,yc-seed,2026-07-22
+Haven,greenhouse,haven,http://www.havenservicing.com,yes,yc-seed,2026-07-22
+Eze,scrape,https://www.ezeit.ai/,https://www.ezeit.ai/,no,yc-seed,2026-07-22
+Benepass,ashby,benepass,http://www.getbenepass.com,yes,yc-seed,2026-07-22
+Signadot,scrape,https://www.signadot.com/,https://www.signadot.com/,no,yc-seed,2026-07-22
+Whatnot,scrape,https://www.whatnot.com,https://www.whatnot.com,no,yc-seed,2026-07-22
+Ello,ashby,ello,https://www.ello.com,yes,yc-seed,2026-07-22
+BuildBuddy,scrape,https://buildbuddy.io,https://buildbuddy.io,no,yc-seed,2026-07-22
+Vori,ashby,vori,https://www.vori.com,yes,yc-seed,2026-07-22
+Riot,scrape,https://tryriot.com/,https://tryriot.com/,no,yc-seed,2026-07-22
+PostHog,ashby,posthog,https://www.posthog.com,yes,yc-seed,2026-07-22
+AIOS,ashby,aios,https://www.aiosmedical.com/,yes,yc-seed,2026-07-22
+Junction,ashby,junction,https://www.junction.com/,yes,yc-seed,2026-07-22
+Skypher,scrape,https://skypher.co,https://skypher.co,no,yc-seed,2026-07-22
+Recurrency,scrape,http://www.recurrency.com,http://www.recurrency.com,no,yc-seed,2026-07-22
+PostEra,lever,postera,https://postera.ai/,yes,yc-seed,2026-07-22
+DeepSource,scrape,https://deepsource.com/,https://deepsource.com/,no,yc-seed,2026-07-22
+Morphle Labs,scrape,https://morphlelabs.com,https://morphlelabs.com,no,yc-seed,2026-07-22
+adyn,scrape,https://adyn.com,https://adyn.com,no,yc-seed,2026-07-22
+BeGo,scrape,http://www.bego.ai,http://www.bego.ai,no,yc-seed,2026-07-22
+Ramani,scrape,http://www.ramani.io,http://www.ramani.io,no,yc-seed,2026-07-22
+Nomic Bio,ashby,nomic,http://www.nomic.bio,yes,yc-seed,2026-07-22
+Stable,ashby,stable,https://useStable.com,yes,yc-seed,2026-07-22
+Recall.ai,greenhouse,recall,https://www.recall.ai,yes,yc-seed,2026-07-22
+borong,scrape,https://www.borong.com/,https://www.borong.com/,no,yc-seed,2026-07-22
+99minutos,scrape,https://99minutos.com,https://99minutos.com,no,yc-seed,2026-07-22
+Living Carbon,lever,livingcarbon,https://www.livingcarbon.com,yes,yc-seed,2026-07-22
+Belvo,ashby,belvo,https://belvo.com,yes,yc-seed,2026-07-22
+Zip,ashby,zip,https://ziphq.com/,yes,yc-seed,2026-07-22
+Luminai,ashby,luminai,https://www.luminai.com,yes,yc-seed,2026-07-22
+Roboflow,ashby,roboflow,https://roboflow.com,yes,yc-seed,2026-07-22
+SuperTokens,scrape,https://supertokens.com,https://supertokens.com,no,yc-seed,2026-07-22
+Datafold,ashby,datafold,https://datafold.com,yes,yc-seed,2026-07-22
+Lightdash,ashby,lightdash,http://lightdash.com/,yes,yc-seed,2026-07-22
+Blue Onion,lever,blue,https://www.blueonion.ai/,yes,yc-seed,2026-07-22
+AtoB,ashby,atob,https://atob.com/,yes,yc-seed,2026-07-22
+QuestDB,scrape,https://questdb.com/,https://questdb.com/,no,yc-seed,2026-07-22
+Seam,scrape,https://seam.co,https://seam.co,no,yc-seed,2026-07-22
+Safepay,scrape,https://getsafepay.pk/,https://getsafepay.pk/,no,yc-seed,2026-07-22
+Explorex,scrape,https://explorex.co,https://explorex.co,no,yc-seed,2026-07-22
+Pave,greenhouse,paveakatroveinformationtechnologies,https://pave.com,yes,yc-seed,2026-07-22
+Hypotenuse AI,scrape,https://hypotenuse.ai/,https://hypotenuse.ai/,no,yc-seed,2026-07-22
+Swif.ai,scrape,https://www.swif.ai,https://www.swif.ai,no,yc-seed,2026-07-22
+Blissway,ashby,blissway,https://www.blissway.com/,yes,yc-seed,2026-07-22
+doola,lever,doola,https://www.doola.com/,yes,yc-seed,2026-07-22
+Seal,scrape,https://seal.run,https://seal.run,no,yc-seed,2026-07-22
+Atomic,ashby,atomic,https://www.atomicvest.com/,yes,yc-seed,2026-07-22
+Hellometer,scrape,https://hellometer.io/,https://hellometer.io/,no,yc-seed,2026-07-22
+Vitable Health,ashby,vitable,https://vitablehealth.com,yes,yc-seed,2026-07-22
+BIK,scrape,https://bik.ai/,https://bik.ai/,no,yc-seed,2026-07-22
+Notabene,ashby,notabene,https://notabene.id,yes,yc-seed,2026-07-22
+Flint,ashby,flint,https://withflint.com,yes,yc-seed,2026-07-22
+Minimum,scrape,https://minimum.com,https://minimum.com,no,yc-seed,2026-07-22
+Laylo,scrape,https://laylo.com,https://laylo.com,no,yc-seed,2026-07-22
+Arketa,ashby,arketa,https://arketa.com,yes,yc-seed,2026-07-22
+CarbonChain,greenhouse,carbonchain,https://carbonchain.com,yes,yc-seed,2026-07-22
+Ready,ashby,ready,https://ready.net,yes,yc-seed,2026-07-22
+Taktile,ashby,taktile,http://www.taktile.com,yes,yc-seed,2026-07-22
+Draftwise,scrape,https://www.draftwise.com/,https://www.draftwise.com/,no,yc-seed,2026-07-22
+Spenmo,scrape,https://summitglobal.com/,https://summitglobal.com/,no,yc-seed,2026-07-22
+Afriex,scrape,https://www.afriexapp.com,https://www.afriexapp.com,no,yc-seed,2026-07-22
+Vena Vitals,scrape,http://venavitals.com,http://venavitals.com,no,yc-seed,2026-07-22
+Rally,scrape,https://rally.video,https://rally.video,no,yc-seed,2026-07-22
+Inspectify,scrape,http://www.inspectify.com,http://www.inspectify.com,no,yc-seed,2026-07-22
+Zuddl,scrape,http://www.zuddl.com,http://www.zuddl.com,no,yc-seed,2026-07-22
+Finch,lever,finch,https://tryfinch.com,yes,yc-seed,2026-07-22
+Fieldguide,ashby,fieldguide,http://fieldguide.io,yes,yc-seed,2026-07-22
+Matter,scrape,https://getmatter.app,https://getmatter.app,no,yc-seed,2026-07-22
+Gather,greenhouse,gather,https://www.gather.town/,yes,yc-seed,2026-07-22
+Abacum,ashby,abacum,https://www.abacum.ai/,yes,yc-seed,2026-07-22
+Runway,ashby,runway,https://runway.team,yes,yc-seed,2026-07-22
+authzed,ashby,authzed,https://authzed.com,yes,yc-seed,2026-07-22
+Humaans,ashby,humaans,https://humaans.io,yes,yc-seed,2026-07-22
+Albedo,greenhouse,albedo,https://albedo.com,yes,yc-seed,2026-07-22
+RocketSDR,scrape,https://rocketsdr.ai,https://rocketsdr.ai,no,yc-seed,2026-07-22
+MedMe Health,scrape,https://www.medmehealth.com,https://www.medmehealth.com,no,yc-seed,2026-07-22
+Hapi,scrape,https://hapi.trade/,https://hapi.trade/,no,yc-seed,2026-07-22
+SigNoz,ashby,signoz,https://signoz.io,yes,yc-seed,2026-07-22
+GroMo,scrape,https://www.gromo.in,https://www.gromo.in,no,yc-seed,2026-07-22
+Nourish,greenhouse,usenourish,https://nourish.com,yes,yc-seed,2026-07-22
+SpruceID,ashby,spruceid,https://www.spruceid.com,yes,yc-seed,2026-07-22
+Weekday,scrape,https://weekday.works,https://weekday.works,no,yc-seed,2026-07-22
+Smartcuts,lever,smartcuts,https://trysmartcuts.com/,yes,yc-seed,2026-07-22
+Pesto,scrape,https://www.getpesto.com/,https://www.getpesto.com/,no,yc-seed,2026-07-22
+Fractional,scrape,https://fractional.app,https://fractional.app,no,yc-seed,2026-07-22
+Cyble,scrape,https://cyble.com/,https://cyble.com/,no,yc-seed,2026-07-22
+Gridware,lever,gridware,https://www.gridware.io,yes,yc-seed,2026-07-22
+Firstbase.io,scrape,https://firstbase.io/,https://firstbase.io/,no,yc-seed,2026-07-22
+Per Diem,scrape,https://tryperdiem.com,https://tryperdiem.com,no,yc-seed,2026-07-22
+Kodo,scrape,https://www.kodo.com,https://www.kodo.com,no,yc-seed,2026-07-22
+Quadrant Health,scrape,https://quadrant.health,https://quadrant.health,no,yc-seed,2026-07-22
+Topkey,scrape,https://www.topkey.io/,https://www.topkey.io/,no,yc-seed,2026-07-22
+Pangea.app,scrape,https://www.pangea.app,https://www.pangea.app,no,yc-seed,2026-07-22
+Anima,ashby,anima,http://www.animahealth.com,yes,yc-seed,2026-07-22
+Popl,ashby,popl,https://popl.co/,yes,yc-seed,2026-07-22
+Fathom,ashby,fathom,https://www.fathom.ai,yes,yc-seed,2026-07-22
+Measured,scrape,https://trymeasured.com/,https://trymeasured.com/,no,yc-seed,2026-07-22
+LiveFlow,ashby,liveflow,https://www.liveflow.com,yes,yc-seed,2026-07-22
+Auricle,scrape,https://auricle.com,https://auricle.com,no,yc-seed,2026-07-22
+Great Question,ashby,greatquestion,https://greatquestion.co,yes,yc-seed,2026-07-22
+Datrics,scrape,https://datrics.ai,https://datrics.ai,no,yc-seed,2026-07-22
+Enode,ashby,enode,http://www.enode.com,yes,yc-seed,2026-07-22
+Text Blaze,lever,text,https://blaze.today,yes,yc-seed,2026-07-22
+Topline Pro,ashby,topline-pro,https://www.toplinepro.com,yes,yc-seed,2026-07-22
+Quicknode,ashby,quicknode,https://www.quicknode.com,yes,yc-seed,2026-07-22
+Resquared,scrape,http://re2.ai,http://re2.ai,no,yc-seed,2026-07-22
+Codingal,scrape,https://www.codingal.com,https://www.codingal.com,no,yc-seed,2026-07-22
+Tractian,lever,tractian,https://tractian.com,yes,yc-seed,2026-07-22
+Solo,scrape,https://www.solosuit.com/,https://www.solosuit.com/,no,yc-seed,2026-07-22
+Stoke Space,scrape,https://www.stokespace.com/,https://www.stokespace.com/,no,yc-seed,2026-07-22
+Tint,greenhouse,tintai,http://www.tint.ai,yes,yc-seed,2026-07-22
+Betterhalf,scrape,https://betterhalf.ai,https://betterhalf.ai,no,yc-seed,2026-07-22
+Biodock,scrape,https://www.biodock.ai,https://www.biodock.ai,no,yc-seed,2026-07-22
+Venu AI,scrape,https://www.venu3d.com,https://www.venu3d.com,no,yc-seed,2026-07-22
+Compose.ai,scrape,https://compose.ai,https://compose.ai,no,yc-seed,2026-07-22
+Lamar Health,scrape,http://www.lamarhealth.com,http://www.lamarhealth.com,no,yc-seed,2026-07-22
+Soraban,scrape,https://www.soraban.com,https://www.soraban.com,no,yc-seed,2026-07-22
+Haystack,scrape,https://usehaystack.io/,https://usehaystack.io/,no,yc-seed,2026-07-22
+Ziina,ashby,ziina,https://www.ziina.com,yes,yc-seed,2026-07-22
+Infracost,ashby,infracost,https://infracost.io,yes,yc-seed,2026-07-22
+FlutterFlow,ashby,flutterflow,https://flutterflow.io,yes,yc-seed,2026-07-22
+Svix,ashby,svix,https://www.svix.com,yes,yc-seed,2026-07-22
+BusinessOnBot,scrape,https://www.businessonbot.com/,https://www.businessonbot.com/,no,yc-seed,2026-07-22
+Gigs,greenhouse,gigs,https://gigs.com,yes,yc-seed,2026-07-22
+Prospa,greenhouse,prospa,https://getprospa.com,yes,yc-seed,2026-07-22
+UPchieve,scrape,https://www.upchieve.org,https://www.upchieve.org,no,yc-seed,2026-07-22
+Jiga,scrape,https://jiga.io,https://jiga.io,no,yc-seed,2026-07-22
+Turing College,greenhouse,turing,https://www.turingcollege.com/,yes,yc-seed,2026-07-22
+Moonvalley,ashby,moonvalley-ai,https://www.moonvalley.com,yes,yc-seed,2026-07-22
+Waydev AI,scrape,https://waydev.co/,https://waydev.co/,no,yc-seed,2026-07-22
+Authologic,scrape,https://authologic.com,https://authologic.com,no,yc-seed,2026-07-22
+Triomics,ashby,triomics,https://triomics.com/,yes,yc-seed,2026-07-22
+Shepherd,ashby,shepherd,https://shepherdinsurance.com,yes,yc-seed,2026-07-22
+Palla,scrape,https://www.palla.com,https://www.palla.com,no,yc-seed,2026-07-22
+PaletteHQ,scrape,https://palettehq.com/en,https://palettehq.com/en,no,yc-seed,2026-07-22
+Epsilon3,lever,epsilon3,https://www.epsilon3.io/,yes,yc-seed,2026-07-22
+Reframe,scrape,https://www.joinreframeapp.com/,https://www.joinreframeapp.com/,no,yc-seed,2026-07-22
+Agapé,scrape,https://www.getdailyagape.com,https://www.getdailyagape.com,no,yc-seed,2026-07-22
+Legion Health,ashby,legionhealth,https://legionhealth.com,yes,yc-seed,2026-07-22
+Odys Aviation,scrape,https://www.odysaviation.com/,https://www.odysaviation.com/,no,yc-seed,2026-07-22
+Serif Health,greenhouse,serif,https://www.serifhealth.com,yes,yc-seed,2026-07-22
+Carbonfact,scrape,http://www.carbonfact.com,http://www.carbonfact.com,no,yc-seed,2026-07-22
+Varos,scrape,http://varos.com,http://varos.com,no,yc-seed,2026-07-22
+Baraka,scrape,https://www.getbaraka.com/,https://www.getbaraka.com/,no,yc-seed,2026-07-22
+Rootly,scrape,https://rootly.com,https://rootly.com,no,yc-seed,2026-07-22
+ARQ,ashby,arq,https://www.arqfinance.com/,yes,yc-seed,2026-07-22
+Kalam Labs,scrape,http://www.kalamlabs.in,http://www.kalamlabs.in,no,yc-seed,2026-07-22
+Koshex,scrape,https://www.koshex.com,https://www.koshex.com,no,yc-seed,2026-07-22
+Coulomb AI,scrape,https://coulomb.ai/,https://coulomb.ai/,no,yc-seed,2026-07-22
+Parallel Bio,greenhouse,parallel,http://parallel.bio,yes,yc-seed,2026-07-22
+Rivia.AI,scrape,https://rivia.ai,https://rivia.ai,no,yc-seed,2026-07-22
+AlgoUniversity,scrape,http://algouniversity.com/,http://algouniversity.com/,no,yc-seed,2026-07-22
+Neodocs,scrape,https://www.neodocs.in,https://www.neodocs.in,no,yc-seed,2026-07-22
+Strive Math,scrape,https://www.strivemath.com/,https://www.strivemath.com/,no,yc-seed,2026-07-22
+Double,ashby,double,https://www.doublehq.com,yes,yc-seed,2026-07-22
+Lago,ashby,lago,https://www.getlago.com/,yes,yc-seed,2026-07-22
+Forage,scrape,http://www.joinforage.com,http://www.joinforage.com,no,yc-seed,2026-07-22
+Tavus,ashby,tavus,https://www.tavus.io,yes,yc-seed,2026-07-22
+SafeBeat,scrape,https://safebeat.com,https://safebeat.com,no,yc-seed,2026-07-22
+Kodex,ashby,kodex,https://www.kodexglobal.com,yes,yc-seed,2026-07-22
+Pirouette Pharma,scrape,https://www.pirouettepharma.com/,https://www.pirouettepharma.com/,no,yc-seed,2026-07-22
+Aqua,scrape,https://www.investwithaqua.com,https://www.investwithaqua.com,no,yc-seed,2026-07-22
+SalaryBox,scrape,https://salarybox.in/,https://salarybox.in/,no,yc-seed,2026-07-22
+Rinse,scrape,http://www.rinse.dental,http://www.rinse.dental,no,yc-seed,2026-07-22
+Hyperbrowser,scrape,https://hyperbrowser.ai,https://hyperbrowser.ai,no,yc-seed,2026-07-22
+Repool,scrape,http://repool.com,http://repool.com,no,yc-seed,2026-07-22
+Bree,ashby,bree,https://www.trybree.com/,yes,yc-seed,2026-07-22
+Govly,scrape,https://www.govly.com/,https://www.govly.com/,no,yc-seed,2026-07-22
+Enerjazz,scrape,https://www.enerjazz.tech/,https://www.enerjazz.tech/,no,yc-seed,2026-07-22
+DigiBuild,scrape,https://digibuild.com,https://digibuild.com,no,yc-seed,2026-07-22
+WarpBuild,ashby,warpbuild,https://www.warpbuild.com,yes,yc-seed,2026-07-22
+MindFi,scrape,https://www.mindfi.co,https://www.mindfi.co,no,yc-seed,2026-07-22
+Truss,ashby,truss,https://trusspayments.com,yes,yc-seed,2026-07-22
+Nira Energy,greenhouse,niraenergy,https://www.niraenergy.com/,yes,yc-seed,2026-07-22
+LootRush,scrape,https://www.lootrush.com,https://www.lootrush.com,no,yc-seed,2026-07-22
+Scispot,scrape,https://scispot.io,https://scispot.io,no,yc-seed,2026-07-22
+Coinrule,scrape,https://coinrule.com/,https://coinrule.com/,no,yc-seed,2026-07-22
+Formance,ashby,formance,https://formance.com,yes,yc-seed,2026-07-22
+OneSchema,ashby,oneschema,https://www.oneschema.co,yes,yc-seed,2026-07-22
+Shimmer,scrape,https://shimmer.care,https://shimmer.care,no,yc-seed,2026-07-22
+KaiPod Learning,scrape,http://www.kaipodlearning.com,http://www.kaipodlearning.com,no,yc-seed,2026-07-22
+Aleph,lever,aleph,https://getaleph.com/,yes,yc-seed,2026-07-22
+Protex AI,ashby,Protex,https://www.protex.ai,yes,yc-seed,2026-07-22
+Zensors,ashby,zensors,https://www.zensors.com,yes,yc-seed,2026-07-22
+HeyCharge,scrape,https://heycharge.com/,https://heycharge.com/,no,yc-seed,2026-07-22
+Akute Health,scrape,https://www.akutehealth.com,https://www.akutehealth.com,no,yc-seed,2026-07-22
+Writesonic,scrape,https://writesonic.com/,https://writesonic.com/,no,yc-seed,2026-07-22
+TransAstra Corporation,scrape,https://www.transastra.com,https://www.transastra.com,no,yc-seed,2026-07-22
+HitPay,ashby,hitpayapp,https://www.hitpayapp.com,yes,yc-seed,2026-07-22
+Mach9,ashby,mach9,https://www.mach9.ai/,yes,yc-seed,2026-07-22
+Dots 💸,greenhouse,dots,https://usedots.com,yes,yc-seed,2026-07-22
+Telmai,scrape,https://www.telm.ai/,https://www.telm.ai/,no,yc-seed,2026-07-22
+Buoyant Aero,scrape,https://www.buoyant.aero,https://www.buoyant.aero,no,yc-seed,2026-07-22
+Zuma,lever,getzuma,https://www.getzuma.com/,yes,yc-seed,2026-07-22
+Storylane,scrape,https://www.storylane.io/,https://www.storylane.io/,no,yc-seed,2026-07-22
+Atlas,ashby,atlas,https://atlas.kitchen,yes,yc-seed,2026-07-22
+Crew,scrape,https://crew.work/,https://crew.work/,no,yc-seed,2026-07-22
+Aviator,ashby,aviator,https://aviator.co,yes,yc-seed,2026-07-22
+Payflow,scrape,https://www.payflow.es/,https://www.payflow.es/,no,yc-seed,2026-07-22
+Nash,ashby,nash,https://www.usenash.com/,yes,yc-seed,2026-07-22
+Lightly,scrape,https://lightly.ai/,https://lightly.ai/,no,yc-seed,2026-07-22
+Sully.ai,scrape,https://www.sully.ai,https://www.sully.ai,no,yc-seed,2026-07-22
+JABU,scrape,http://www.gojabu.com,http://www.gojabu.com,no,yc-seed,2026-07-22
+Attack Capital,scrape,https://attack.capital/,https://attack.capital/,no,yc-seed,2026-07-22
+Apollo,scrape,https://www.apollofirst.xyz/,https://www.apollofirst.xyz/,no,yc-seed,2026-07-22
+Spot Health,scrape,https://spotdx.com,https://spotdx.com,no,yc-seed,2026-07-22
+Elevate (formerly Bloom),scrape,https://www.elevatepay.co,https://www.elevatepay.co,no,yc-seed,2026-07-22
+GrowthBook,scrape,https://www.growthbook.io,https://www.growthbook.io,no,yc-seed,2026-07-22
+Agave,ashby,agave,https://www.useagave.com,yes,yc-seed,2026-07-22
+Strac,scrape,https://www.strac.io/,https://www.strac.io/,no,yc-seed,2026-07-22
+Trébol,scrape,https://gotrebol.com/,https://gotrebol.com/,no,yc-seed,2026-07-22
+Peakflo,scrape,https://peakflo.co,https://peakflo.co,no,yc-seed,2026-07-22
+Starling,scrape,https://starlingmedical.com/,https://starlingmedical.com/,no,yc-seed,2026-07-22
+Loops,scrape,https://loops.so,https://loops.so,no,yc-seed,2026-07-22
+Nest Genomics,scrape,https://nestgenomics.com,https://nestgenomics.com,no,yc-seed,2026-07-22
+Axross Pte Ltd,scrape,https://www.axross.co/,https://www.axross.co/,no,yc-seed,2026-07-22
+Gym Class,scrape,https://gymclass.com,https://gymclass.com,no,yc-seed,2026-07-22
+TeamOut,scrape,https://www.teamout.com/,https://www.teamout.com/,no,yc-seed,2026-07-22
+Seabound,scrape,http://seabound.co,http://seabound.co,no,yc-seed,2026-07-22
+Dynamo AI,scrape,https://dynamo.ai,https://dynamo.ai,no,yc-seed,2026-07-22
+Invert,ashby,invert,http://www.invertbio.com/,yes,yc-seed,2026-07-22
+Rownd,scrape,https://rownd.ai,https://rownd.ai,no,yc-seed,2026-07-22
+Shuttle Central,scrape,https://book.shuttlecentral.com/,https://book.shuttlecentral.com/,no,yc-seed,2026-07-22
+Ankr Health,scrape,https://ankr.us,https://ankr.us,no,yc-seed,2026-07-22
+Happl,ashby,happl,https://happl.com/,yes,yc-seed,2026-07-22
+Versable,scrape,https://www.versableai.com/,https://www.versableai.com/,no,yc-seed,2026-07-22
+Beam,greenhouse,beam,https://beam.cloud,yes,yc-seed,2026-07-22
+Dart,scrape,https://www.dartai.com,https://www.dartai.com,no,yc-seed,2026-07-22
+Reforged Labs,scrape,https://reforgedlabs.com/,https://reforgedlabs.com/,no,yc-seed,2026-07-22
+HOKALI,scrape,https://www.hokali.com/,https://www.hokali.com/,no,yc-seed,2026-07-22
+Flagright,ashby,flagright,https://flagright.com,yes,yc-seed,2026-07-22
+IOMETE,scrape,https://www.iomete.com/,https://www.iomete.com/,no,yc-seed,2026-07-22
+PermitFlow,ashby,permitflow,http://www.permitflow.com,yes,yc-seed,2026-07-22
+IMT Care,greenhouse,imt,https://www.imt.care,yes,yc-seed,2026-07-22
+digi,scrape,https://www.digitech.la/,https://www.digitech.la/,no,yc-seed,2026-07-22
+Velt,scrape,https://velt.dev,https://velt.dev,no,yc-seed,2026-07-22
+Cogram,scrape,https://cogram.com,https://cogram.com,no,yc-seed,2026-07-22
+Posh,ashby,posh,https://www.poshenergy.com,yes,yc-seed,2026-07-22
+Cotera,scrape,https://cotera.co,https://cotera.co,no,yc-seed,2026-07-22
+LunaJoy Health,scrape,http://HelloLunaJoy.com,http://HelloLunaJoy.com,no,yc-seed,2026-07-22
+Curacel,scrape,https://curacel.co,https://curacel.co,no,yc-seed,2026-07-22
+voize,ashby,voize,https://voize.de/,yes,yc-seed,2026-07-22
+Prembly (formerly Identitypass),scrape,https://prembly.com/,https://prembly.com/,no,yc-seed,2026-07-22
+Strong Compute,scrape,https://strongcompute.com,https://strongcompute.com,no,yc-seed,2026-07-22
+Sprites,scrape,https://sprites.ai/,https://sprites.ai/,no,yc-seed,2026-07-22
+goodfin,scrape,http://www.goodfin.com,http://www.goodfin.com,no,yc-seed,2026-07-22
+Cinder,ashby,cinder,https://cinder.ai,yes,yc-seed,2026-07-22
+Material Depot,ashby,material,https://materialdepot.in/,yes,yc-seed,2026-07-22
+Bemlo,scrape,https://www.bemlo.com/en,https://www.bemlo.com/en,no,yc-seed,2026-07-22
+Attain,greenhouse,attain,https://joinattain.com/,yes,yc-seed,2026-07-22
+PropelAuth,scrape,https://www.propelauth.com,https://www.propelauth.com,no,yc-seed,2026-07-22
+Spade,ashby,spade,https://www.spade.com,yes,yc-seed,2026-07-22
+amiloz,scrape,https://www.beloz.com.mx/,https://www.beloz.com.mx/,no,yc-seed,2026-07-22
+yhangry,scrape,http://www.yhangry.com,http://www.yhangry.com,no,yc-seed,2026-07-22
+Fleek,ashby,fleek,https://www.joinfleek.com/,yes,yc-seed,2026-07-22
+Rally UXR,ashby,rallyuxr,https://www.rallyuxr.com/,yes,yc-seed,2026-07-22
+Blink,ashby,blink,https://blink.new,yes,yc-seed,2026-07-22
+Finku,scrape,http://finku.id,http://finku.id,no,yc-seed,2026-07-22
+Reviving Mind,scrape,https://www.revivingmind.com/,https://www.revivingmind.com/,no,yc-seed,2026-07-22
+Darsel,scrape,http://darsel.tech,http://darsel.tech,no,yc-seed,2026-07-22
+GIMO,scrape,https://gimo.vn/en,https://gimo.vn/en,no,yc-seed,2026-07-22
+GoSats,scrape,https://gosats.io,https://gosats.io,no,yc-seed,2026-07-22
+AirMyne,scrape,http://www.airmyne.com,http://www.airmyne.com,no,yc-seed,2026-07-22
+GovDash,ashby,govdash,https://govdash.com/,yes,yc-seed,2026-07-22
+KorrAI,scrape,https://www.korrai.com,https://www.korrai.com,no,yc-seed,2026-07-22
+MSPilot,scrape,https://mspilot.io,https://mspilot.io,no,yc-seed,2026-07-22
+Cofactr,lever,Cofactr,https://www.cofactr.com/,yes,yc-seed,2026-07-22
+Eventual,ashby,eventual,https://www.daft.ai/,yes,yc-seed,2026-07-22
+Seis,scrape,https://www.seis.com,https://www.seis.com,no,yc-seed,2026-07-22
+Reality Defender,ashby,realitydefender,http://www.realitydefender.com,yes,yc-seed,2026-07-22
+Mindbase,scrape,https://mymindbase.ai,https://mymindbase.ai,no,yc-seed,2026-07-22
+Medplum,scrape,https://www.medplum.com,https://www.medplum.com,no,yc-seed,2026-07-22
+Clinikally,scrape,https://www.clinikally.com/,https://www.clinikally.com/,no,yc-seed,2026-07-22
+Wolfia,scrape,https://wolfia.com,https://wolfia.com,no,yc-seed,2026-07-22
+Star,scrape,https://buildwithstar.com,https://buildwithstar.com,no,yc-seed,2026-07-22
+Stackup,scrape,https://www.stackup.fi,https://www.stackup.fi,no,yc-seed,2026-07-22
+Tailor,ashby,tailor,https://www.tailor.tech/,yes,yc-seed,2026-07-22
+Pasito,scrape,https://pasito.ai,https://pasito.ai,no,yc-seed,2026-07-22
+TrueBiz,scrape,https://truebiz.io/,https://truebiz.io/,no,yc-seed,2026-07-22
+Voltic,scrape,https://volticshipping.com/,https://volticshipping.com/,no,yc-seed,2026-07-22
+Blee,ashby,blee,https://www.blee.com,yes,yc-seed,2026-07-22
+Raven,greenhouse,raven,https://startraven.com,yes,yc-seed,2026-07-22
+Windmill,ashby,windmill,https://windmill.dev,yes,yc-seed,2026-07-22
+Tank Payments,scrape,https://www.tankpayments.com/,https://www.tankpayments.com/,no,yc-seed,2026-07-22
+Malama Health,scrape,https://www.heymalama.co,https://www.heymalama.co,no,yc-seed,2026-07-22
+Aragorn AI,ashby,aragorn,https://www.aragorn.ai,yes,yc-seed,2026-07-22
+Flair Labs,scrape,https://www.flairlabs.ai/,https://www.flairlabs.ai/,no,yc-seed,2026-07-22
+Typewise,scrape,https://typewise.app,https://typewise.app,no,yc-seed,2026-07-22
+NewsCatcher,scrape,https://newscatcherapi.com/,https://newscatcherapi.com/,no,yc-seed,2026-07-22
+Thera,ashby,thera,https://www.getthera.com,yes,yc-seed,2026-07-22
+Peoplebox.ai,scrape,https://www.peoplebox.ai,https://www.peoplebox.ai,no,yc-seed,2026-07-22
+Airhart Aeronautics,scrape,https://www.airhartaero.com/,https://www.airhartaero.com/,no,yc-seed,2026-07-22
+Coris,scrape,https://coris.ai/,https://coris.ai/,no,yc-seed,2026-07-22
+Hedgehog,scrape,http://hedgehogfoods.com,http://hedgehogfoods.com,no,yc-seed,2026-07-22
+Alphawatch AI,scrape,https://alphawatch.ai,https://alphawatch.ai,no,yc-seed,2026-07-22
+AviaryAI,scrape,http://www.helloaviary.ai,http://www.helloaviary.ai,no,yc-seed,2026-07-22
+Quinn,scrape,https://www.quinnbio.com,https://www.quinnbio.com,no,yc-seed,2026-07-22
+Metriport,ashby,metriport,https://metriport.com/,yes,yc-seed,2026-07-22
+Feather,scrape,https://featherhq.com,https://featherhq.com,no,yc-seed,2026-07-22
+Quindar,ashby,quindar,https://www.quindar.space,yes,yc-seed,2026-07-22
+Vinci Games,scrape,https://ruffnauts.com/,https://ruffnauts.com/,no,yc-seed,2026-07-22
+AiPrise,ashby,aiprise,https://aiprise.com/,yes,yc-seed,2026-07-22
+Findly,scrape,https://www.findly.ai/join,https://www.findly.ai/join,no,yc-seed,2026-07-22
+HOMLI,scrape,https://thehomli.com,https://thehomli.com,no,yc-seed,2026-07-22
+PrimeVault,scrape,https://www.primevault.com,https://www.primevault.com,no,yc-seed,2026-07-22
+Solum Health,scrape,https://www.getsolum.com/,https://www.getsolum.com/,no,yc-seed,2026-07-22
+Firecrawl,ashby,firecrawl,https://www.firecrawl.dev,yes,yc-seed,2026-07-22
+Oneleet,ashby,oneleet,https://www.oneleet.com/?utm_source=yc&utm_medium=bookface,yes,yc-seed,2026-07-22
+AlgoTest,scrape,https://algotest.in,https://algotest.in,no,yc-seed,2026-07-22
+REVER,scrape,https://itsrever.com/,https://itsrever.com/,no,yc-seed,2026-07-22
+Delfino AI,scrape,https://www.delfino.ai/,https://www.delfino.ai/,no,yc-seed,2026-07-22
+Cambio,ashby,cambio,https://www.cambio.ai/,yes,yc-seed,2026-07-22
+Landeed,scrape,https://www.landeed.com/,https://www.landeed.com/,no,yc-seed,2026-07-22
+AccessOwl,scrape,https://www.accessowl.io/,https://www.accessowl.io/,no,yc-seed,2026-07-22
+Coverage Cat,scrape,https://www.coveragecat.com/,https://www.coveragecat.com/,no,yc-seed,2026-07-22
+Sameday,scrape,https://www.gosameday.com/,https://www.gosameday.com/,no,yc-seed,2026-07-22
+Infisical,ashby,infisical,https://infisical.com,yes,yc-seed,2026-07-22
+Designbase,scrape,https://www.designbase.com/,https://www.designbase.com/,no,yc-seed,2026-07-22
+DrDroid,scrape,https://drdroid.io/,https://drdroid.io/,no,yc-seed,2026-07-22
+Magic Patterns,ashby,magicpatterns,https://www.magicpatterns.com/,yes,yc-seed,2026-07-22
+Rollstack,ashby,rollstack,https://www.rollstack.com,yes,yc-seed,2026-07-22
+Concourse,ashby,concourse,https://concourse.co/,yes,yc-seed,2026-07-22
+FlexDesk,scrape,https://www.flexdesk.com/,https://www.flexdesk.com/,no,yc-seed,2026-07-22
+Hammr,scrape,https://www.hammr.com,https://www.hammr.com,no,yc-seed,2026-07-22
+Nango,ashby,nango,https://nango.dev,yes,yc-seed,2026-07-22
+Numeral,ashby,numeral,https://www.numeral.com/,yes,yc-seed,2026-07-22
+Omnistrate,scrape,http://www.omnistrate.com,http://www.omnistrate.com,no,yc-seed,2026-07-22
+Narrative,scrape,https://www.trynarrative.com/,https://www.trynarrative.com/,no,yc-seed,2026-07-22
+loopfour,scrape,https://www.loopfour.com,https://www.loopfour.com,no,yc-seed,2026-07-22
+Coperniq,ashby,coperniq,https://coperniq.io,yes,yc-seed,2026-07-22
+Cosine,ashby,cosine,http://www.cosine.sh,yes,yc-seed,2026-07-22
+Gooseworks,scrape,https://gooseworks.ai/,https://gooseworks.ai/,no,yc-seed,2026-07-22
+Suger,lever,suger,https://www.suger.io/,yes,yc-seed,2026-07-22
+Inkeep,ashby,inkeep,https://inkeep.com,yes,yc-seed,2026-07-22
+ShortLoop,scrape,https://shortloop.dev/,https://shortloop.dev/,no,yc-seed,2026-07-22
+Truewind,scrape,https://truewind.ai,https://truewind.ai,no,yc-seed,2026-07-22
+Orchid,scrape,https://orchid.health,https://orchid.health,no,yc-seed,2026-07-22
+Storyboarder,scrape,https://storyboarder.com,https://storyboarder.com,no,yc-seed,2026-07-22
+ClickPe,scrape,https://clickpe.ai/,https://clickpe.ai/,no,yc-seed,2026-07-22
+Onshore,scrape,https://onshore.com,https://onshore.com,no,yc-seed,2026-07-22
+Infinia,scrape,https://www.infiniaweb.com/,https://www.infiniaweb.com/,no,yc-seed,2026-07-22
+Vendah,scrape,https://vendah.com.br/,https://vendah.com.br/,no,yc-seed,2026-07-22
+SuperKalam,scrape,https://superkalam.com,https://superkalam.com,no,yc-seed,2026-07-22
+Sirdab,scrape,https://sirdab.co/en,https://sirdab.co/en,no,yc-seed,2026-07-22
+Loula,ashby,loula,https://joinloula.com,yes,yc-seed,2026-07-22
+inBuild,scrape,https://www.inbuild.ai/,https://www.inbuild.ai/,no,yc-seed,2026-07-22
+Diffuse Bio,scrape,http://diffuse.bio,http://diffuse.bio,no,yc-seed,2026-07-22
+Invopop,ashby,invopop,https://www.invopop.com/,yes,yc-seed,2026-07-22
+Dill,scrape,https://usedill.com/,https://usedill.com/,no,yc-seed,2026-07-22
+Constant,scrape,https://useconstant.com,https://useconstant.com,no,yc-seed,2026-07-22
+Conduit,ashby,conduit,http://helloconduit.com,yes,yc-seed,2026-07-22
+Berry,scrape,https://berryai.com/,https://berryai.com/,no,yc-seed,2026-07-22
+Finni Health,ashby,finni-health,https://www.finnihealth.com/,yes,yc-seed,2026-07-22
+Vector,ashby,vector,https://vector.co,yes,yc-seed,2026-07-22
+Escape,ashby,escape,https://escape.tech,yes,yc-seed,2026-07-22
+Kyber,scrape,https://askkyber.com,https://askkyber.com,no,yc-seed,2026-07-22
+Vendora,scrape,https://www.vendora.io/,https://www.vendora.io/,no,yc-seed,2026-07-22
+Finta,scrape,https://www.finta.com/,https://www.finta.com/,no,yc-seed,2026-07-22
+Speedy Labs,scrape,https://speedylabs.ai/,https://speedylabs.ai/,no,yc-seed,2026-07-22
+Yuma AI,ashby,yumaai,https://yuma.ai,yes,yc-seed,2026-07-22
+HockeyStack,ashby,hockeystack,https://hockeystack.com,yes,yc-seed,2026-07-22
+kapa.ai,scrape,https://www.kapa.ai,https://www.kapa.ai,no,yc-seed,2026-07-22
+Twenty,ashby,twenty,https://twenty.com,yes,yc-seed,2026-07-22
+Hyperbound,ashby,hyperbound,https://hyperbound.ai,yes,yc-seed,2026-07-22
+AIVideo.com,scrape,https://aivideo.com,https://aivideo.com,no,yc-seed,2026-07-22
+Sohar Health,scrape,https://www.soharhealth.com,https://www.soharhealth.com,no,yc-seed,2026-07-22
+Pointhound,scrape,http://www.pointhound.com,http://www.pointhound.com,no,yc-seed,2026-07-22
+Cedana,scrape,https://cedana.ai,https://cedana.ai,no,yc-seed,2026-07-22
+Every,ashby,every-io,https://every.io/,yes,yc-seed,2026-07-22
+Prosper,lever,prosper,https://www.getprosper.ai?utm_source=yc&utm_medium=directory&utm_campaign=yc_directory,yes,yc-seed,2026-07-22
+Capi Money,ashby,capimoney,https://www.capimoney.com,yes,yc-seed,2026-07-22
+Alguna,scrape,https://alguna.com,https://alguna.com,no,yc-seed,2026-07-22
+Corgea,scrape,https://www.corgea.com/,https://www.corgea.com/,no,yc-seed,2026-07-22
+Menza,scrape,https://menza.ai/,https://menza.ai/,no,yc-seed,2026-07-22
+Skyvern,scrape,https://www.skyvern.com/,https://www.skyvern.com/,no,yc-seed,2026-07-22
+Decoda Health,ashby,decodahealth,https://decodahealth.com/,yes,yc-seed,2026-07-22
+Numen,scrape,https://www.numen.com,https://www.numen.com,no,yc-seed,2026-07-22
+Surface Labs,scrape,https://withsurface.com,https://withsurface.com,no,yc-seed,2026-07-22
+AgentCollect,scrape,https://www.agentcollect.com,https://www.agentcollect.com,no,yc-seed,2026-07-22
+Aglide,scrape,https://aglide.com,https://aglide.com,no,yc-seed,2026-07-22
+Letter AI,scrape,https://www.letter.ai,https://www.letter.ai,no,yc-seed,2026-07-22
+Rimward,scrape,https://rimward.ai/,https://rimward.ai/,no,yc-seed,2026-07-22
+Bolto,scrape,https://www.bolto.com,https://www.bolto.com,no,yc-seed,2026-07-22
+Sendblue,scrape,https://www.sendblue.com,https://www.sendblue.com,no,yc-seed,2026-07-22
+SyntheticFi,scrape,https://www.syntheticfi.com/,https://www.syntheticfi.com/,no,yc-seed,2026-07-22
+HappyRobot,ashby,happyrobot,https://happyrobot.ai,yes,yc-seed,2026-07-22
+ParadeDB,scrape,https://paradedb.com,https://paradedb.com,no,yc-seed,2026-07-22
+dili,scrape,https://www.dili.com,https://www.dili.com,no,yc-seed,2026-07-22
+Cargo,greenhouse,fireworksai,https://getcargo.io,yes,yc-seed,2026-07-22
+Simbie AI,scrape,http://www.simbie.ai,http://www.simbie.ai,no,yc-seed,2026-07-22
+Morph,scrape,https://morphllm.com,https://morphllm.com,no,yc-seed,2026-07-22
+Singularity,scrape,https://www.singularityus.com/,https://www.singularityus.com/,no,yc-seed,2026-07-22
+Coba,scrape,https://www.coba.ai,https://www.coba.ai,no,yc-seed,2026-07-22
+Orbio Earth,scrape,https://www.orbio.earth/,https://www.orbio.earth/,no,yc-seed,2026-07-22
+Flex,greenhouse,flex,https://www.withflex.com/shop,yes,yc-seed,2026-07-22
+Upsolve AI,scrape,https://upsolve.ai/,https://upsolve.ai/,no,yc-seed,2026-07-22
+Legora,ashby,legora,https://www.legora.com/,yes,yc-seed,2026-07-22
+Ubicloud,scrape,https://www.ubicloud.com,https://www.ubicloud.com,no,yc-seed,2026-07-22
+Garage,ashby,garage,https://www.shopgarage.com/,yes,yc-seed,2026-07-22
+Artisan,ashby,artisan,https://artisan.co/?utm_source=ycombinator,yes,yc-seed,2026-07-22
+Respan,scrape,https://respan.ai,https://respan.ai,no,yc-seed,2026-07-22
+Infinity,scrape,https://www.infinityapp.in/,https://www.infinityapp.in/,no,yc-seed,2026-07-22
+Centralize,ashby,centralize,https://www.usecentralize.com/,yes,yc-seed,2026-07-22
+Open,scrape,https://open.cx,https://open.cx,no,yc-seed,2026-07-22
+Draftaid,scrape,https://draftaid.io/,https://draftaid.io/,no,yc-seed,2026-07-22
+CodeAnt AI,scrape,https://codeant.ai/,https://codeant.ai/,no,yc-seed,2026-07-22
+Carma,scrape,https://www.joincarma.com/,https://www.joincarma.com/,no,yc-seed,2026-07-22
+Whip,scrape,https://whip.run/,https://whip.run/,no,yc-seed,2026-07-22
+Hazel,greenhouse,hazel,https://hazelai.com,yes,yc-seed,2026-07-22
+Andy AI,scrape,https://with-andy.com,https://with-andy.com,no,yc-seed,2026-07-22
+Voicepanel,scrape,https://voicepanel.com,https://voicepanel.com,no,yc-seed,2026-07-22
+ProSights,scrape,https://prosights.co/,https://prosights.co/,no,yc-seed,2026-07-22
+JustAI,scrape,https://getjust.ai,https://getjust.ai,no,yc-seed,2026-07-22
+BetterBasket,scrape,http://www.betterbasket.com,http://www.betterbasket.com,no,yc-seed,2026-07-22
+Deep24,scrape,https://deep24.com,https://deep24.com,no,yc-seed,2026-07-22
+Zep AI,scrape,https://www.getzep.com/,https://www.getzep.com/,no,yc-seed,2026-07-22
+Stacksync,scrape,https://www.stacksync.com/,https://www.stacksync.com/,no,yc-seed,2026-07-22
+Deepnight,scrape,https://www.deepnight.ai/,https://www.deepnight.ai/,no,yc-seed,2026-07-22
+xPay,scrape,https://www.xpaycheckout.com/,https://www.xpaycheckout.com/,no,yc-seed,2026-07-22
+Powder,scrape,https://www.powderfi.com/,https://www.powderfi.com/,no,yc-seed,2026-07-22
+Senso,scrape,http://www.senso.ai,http://www.senso.ai,no,yc-seed,2026-07-22
+Piramidal,scrape,https://piramidal.ai,https://piramidal.ai,no,yc-seed,2026-07-22
+TrueClaim,scrape,https://www.trytrueclaim.com,https://www.trytrueclaim.com,no,yc-seed,2026-07-22
+Healia,scrape,https://www.healiahealth.com/,https://www.healiahealth.com/,no,yc-seed,2026-07-22
+Haplotype Labs,scrape,https://www.haplotypelabs.com/,https://www.haplotypelabs.com/,no,yc-seed,2026-07-22
+Indemni,scrape,http://www.indemni.com,http://www.indemni.com,no,yc-seed,2026-07-22
+Mem0,ashby,mem0,https://mem0.ai,yes,yc-seed,2026-07-22
+Saphira AI,scrape,https://saphira.ai,https://saphira.ai,no,yc-seed,2026-07-22
+Educato,scrape,https://www.educato.com/,https://www.educato.com/,no,yc-seed,2026-07-22
+ProhostAI,scrape,https://www.prohost.ai/,https://www.prohost.ai/,no,yc-seed,2026-07-22
+mdhub,scrape,https://www.mdhub.ai/,https://www.mdhub.ai/,no,yc-seed,2026-07-22
+ClaimSorted,ashby,claimsorted,https://claimsorted.com,yes,yc-seed,2026-07-22
+Sage Care,ashby,sagecare,https://sagecare.ai,yes,yc-seed,2026-07-22
+VideoGen,scrape,https://videogen.io,https://videogen.io,no,yc-seed,2026-07-22
+Phonely,ashby,phonely,https://phonely.ai,yes,yc-seed,2026-07-22
+FirstWork,scrape,https://firstwork.com,https://firstwork.com,no,yc-seed,2026-07-22
+Azalea Robotics Corporation,scrape,https://azalearobotics.com/,https://azalearobotics.com/,no,yc-seed,2026-07-22
+Unbound,scrape,https://getunbound.ai/,https://getunbound.ai/,no,yc-seed,2026-07-22
+Silurian,scrape,https://silurian.ai/,https://silurian.ai/,no,yc-seed,2026-07-22
+Cloudglue,scrape,https://cloudglue.dev,https://cloudglue.dev,no,yc-seed,2026-07-22
+"DeepSim, Inc.",scrape,https://www.deepsim.io,https://www.deepsim.io,no,yc-seed,2026-07-22
+Offstream,scrape,https://www.useoffstream.com/,https://www.useoffstream.com/,no,yc-seed,2026-07-22
+Elevate,scrape,https://www.useelevate.dev/,https://www.useelevate.dev/,no,yc-seed,2026-07-22
+Tandem,scrape,https://tandemspace.com/,https://tandemspace.com/,no,yc-seed,2026-07-22
+Dench.com,scrape,https://dench.com,https://dench.com,no,yc-seed,2026-07-22
+Substrate,ashby,substrate,https://www.substrate.cc/,yes,yc-seed,2026-07-22
+TaxGPT,scrape,https://www.taxgpt.com,https://www.taxgpt.com,no,yc-seed,2026-07-22
+Clearly AI,ashby,clearly-ai,https://clearly-ai.com,yes,yc-seed,2026-07-22
+Saturn,ashby,saturn,https://www.SaturnOS.com,yes,yc-seed,2026-07-22
+"Hestus, Inc.",scrape,https://www.hestus.co,https://www.hestus.co,no,yc-seed,2026-07-22
+Anara,ashby,anara,https://anara.com,yes,yc-seed,2026-07-22
+Drillbit,scrape,https://www.drillbit.com,https://www.drillbit.com,no,yc-seed,2026-07-22
+Zeit AI,ashby,zeit-ai,https://zeit-ai.com/,yes,yc-seed,2026-07-22
+Emergent,scrape,https://emergent.sh,https://emergent.sh,no,yc-seed,2026-07-22
+Intryc,scrape,https://intryc.com,https://intryc.com,no,yc-seed,2026-07-22
+Presti AI,scrape,https://www.presti.ai/,https://www.presti.ai/,no,yc-seed,2026-07-22
+Paasa,scrape,https://paasa.com,https://paasa.com,no,yc-seed,2026-07-22
+YouShift,scrape,https://www.you-shift.com/,https://www.you-shift.com/,no,yc-seed,2026-07-22
+Cartage,scrape,https://cartage.ai,https://cartage.ai,no,yc-seed,2026-07-22
+Kontigo,scrape,https://kontigo.lat/,https://kontigo.lat/,no,yc-seed,2026-07-22
+Assembly HOA,ashby,assembly,https://assemblyhoa.com,yes,yc-seed,2026-07-22
+Draft The Record,scrape,https://www.drafttherecord.com/,https://www.drafttherecord.com/,no,yc-seed,2026-07-22
+Blaze,scrape,https://blaze.money,https://blaze.money,no,yc-seed,2026-07-22
+Oway,scrape,https://www.shipoway.com,https://www.shipoway.com,no,yc-seed,2026-07-22
+SureBright,scrape,https://surebright.com/,https://surebright.com/,no,yc-seed,2026-07-22
+Capitol AI,scrape,https://www.capitol.ai/,https://www.capitol.ai/,no,yc-seed,2026-07-22
+Merlin AI,scrape,https://www.merlinai.co,https://www.merlinai.co,no,yc-seed,2026-07-22
+Syntra,scrape,https://www.syntra.com,https://www.syntra.com,no,yc-seed,2026-07-22
+Onlook,scrape,https://onlook.com/,https://onlook.com/,no,yc-seed,2026-07-22
+Moonset Health,scrape,https://www.moonsethealth.com/,https://www.moonsethealth.com/,no,yc-seed,2026-07-22
+Raycaster,scrape,https://raycaster.ai,https://raycaster.ai,no,yc-seed,2026-07-22
+Cekura,scrape,https://www.cekura.ai/,https://www.cekura.ai/,no,yc-seed,2026-07-22
+Keye,scrape,https://www.keye.co,https://www.keye.co,no,yc-seed,2026-07-22
+Crustdata,scrape,https://crustdata.com,https://crustdata.com,no,yc-seed,2026-07-22
+Curo,scrape,https://www.curocharging.com/,https://www.curocharging.com/,no,yc-seed,2026-07-22
+Kilvin,scrape,https://www.kilvin.ai,https://www.kilvin.ai,no,yc-seed,2026-07-22
+ArchiLabs,scrape,https://archilabs.ai,https://archilabs.ai,no,yc-seed,2026-07-22
+Careforce,scrape,https://careforce.ai/,https://careforce.ai/,no,yc-seed,2026-07-22
+Asha Health,scrape,https://asha.health,https://asha.health,no,yc-seed,2026-07-22
+Leaping AI,scrape,https://www.leapingai.com,https://www.leapingai.com,no,yc-seed,2026-07-22
+Contrario,scrape,https://contrario.ai,https://contrario.ai,no,yc-seed,2026-07-22
+Toothy AI,scrape,https://www.toothy.ai/,https://www.toothy.ai/,no,yc-seed,2026-07-22
+Cifrato,scrape,https://cifrato.ai,https://cifrato.ai,no,yc-seed,2026-07-22
+hud,ashby,hud,https://www.hud.ai,yes,yc-seed,2026-07-22
+Lucid,scrape,https://lucid.ai,https://lucid.ai,no,yc-seed,2026-07-22
+Dalus,scrape,https://dalus.io,https://dalus.io,no,yc-seed,2026-07-22
+Minerva,ashby,minerva,https://www.tryminerva.ai,yes,yc-seed,2026-07-22
+PgDog,scrape,https://pgdog.dev,https://pgdog.dev,no,yc-seed,2026-07-22
+Parsewise,scrape,https://parsewise.ai,https://parsewise.ai,no,yc-seed,2026-07-22
+Lucis,ashby,lucis,https://www.lucis.life,yes,yc-seed,2026-07-22
+Third Chair,scrape,https://usethirdchair.com,https://usethirdchair.com,no,yc-seed,2026-07-22
+Klavis AI,scrape,https://www.klavis.ai/,https://www.klavis.ai/,no,yc-seed,2026-07-22
+MorphoAI,scrape,https://morpho.ai/,https://morpho.ai/,no,yc-seed,2026-07-22
+Eloquent AI,ashby,eloquentai,https://www.eloquentai.co/,yes,yc-seed,2026-07-22
+Autonomous Technologies Group,lever,autonomous,https://becomeautonomous.com/,yes,yc-seed,2026-07-22
+Prox,ashby,prox,https://useprox.com,yes,yc-seed,2026-07-22
+truthsystems,ashby,truthsystems,https://www.truthsystems.ai,yes,yc-seed,2026-07-22
+Liva AI,scrape,https://www.theliva.ai,https://www.theliva.ai,no,yc-seed,2026-07-22
+DeepAware AI (Robotics Center of Silicon Valley),scrape,https://roboticscenter.ai/,https://roboticscenter.ai/,no,yc-seed,2026-07-22
+Pangolin,scrape,https://pangolin.net,https://pangolin.net,no,yc-seed,2026-07-22
+IronLedger.ai,scrape,https://ironledger.ai,https://ironledger.ai,no,yc-seed,2026-07-22
+Altur,scrape,https://altur.io,https://altur.io,no,yc-seed,2026-07-22
+Reacher,ashby,reacher,https://reacherapp.com/,yes,yc-seed,2026-07-22
+Juxta,scrape,https://juxta.com,https://juxta.com,no,yc-seed,2026-07-22
+Veritus,scrape,https://www.veritus.com,https://www.veritus.com,no,yc-seed,2026-07-22
+Avent,scrape,https://www.aventindustrial.com,https://www.aventindustrial.com,no,yc-seed,2026-07-22
+Uplift AI,greenhouse,uplift,https://upliftai.org/,yes,yc-seed,2026-07-22
+F2,ashby,f2-ai,http://f2.ai,yes,yc-seed,2026-07-22
+Bolna AI,ashby,bolna,https://bolna.ai,yes,yc-seed,2026-07-22
+Hyperspell,ashby,hyperspell,https://hyperspell.com,yes,yc-seed,2026-07-22
+Trelium,scrape,https://www.trelium.com,https://www.trelium.com,no,yc-seed,2026-07-22
+AtlasGrid,scrape,https://atlasgrid.ai,https://atlasgrid.ai,no,yc-seed,2026-07-22
+Flick,scrape,https://flick.art,https://flick.art,no,yc-seed,2026-07-22
+AnswerThis,scrape,https://answerthis.io/,https://answerthis.io/,no,yc-seed,2026-07-22
+Sunflower,ashby,sunflower-sober,https://sunflowersober.com/,yes,yc-seed,2026-07-22
+Leadbay,scrape,https://leadbay.ai/,https://leadbay.ai/,no,yc-seed,2026-07-22
+Metorial,scrape,https://metorial.com,https://metorial.com,no,yc-seed,2026-07-22
+Moss,ashby,moss,https://moss.dev,yes,yc-seed,2026-07-22
+Ploy,ashby,ployai,https://ploy.ai,yes,yc-seed,2026-07-22
+Didit,scrape,https://didit.me/,https://didit.me/,no,yc-seed,2026-07-22
+Asimov,ashby,asimov,https://tryasimov.ai/,yes,yc-seed,2026-07-22
+10x Science,scrape,https://10xscience.com,https://10xscience.com,no,yc-seed,2026-07-22
+Cumulus Labs,scrape,https://cumuluslabs.io,https://cumuluslabs.io,no,yc-seed,2026-07-22
+RamAIn,scrape,https://ramain.ai,https://ramain.ai,no,yc-seed,2026-07-22
+Moritz,scrape,http://moritzlegal.com/,http://moritzlegal.com/,no,yc-seed,2026-07-22
+Rhizome AI,scrape,https://rhizomeai.com/,https://rhizomeai.com/,no,yc-seed,2026-07-22
+Jinba,ashby,carnot-ai,https://jinba.io,yes,yc-seed,2026-07-22
+Seeing Systems,scrape,https://www.seeing-systems.com,https://www.seeing-systems.com,no,yc-seed,2026-07-22
+Maywood,scrape,https://maywoodai.com/,https://maywoodai.com/,no,yc-seed,2026-07-22
+Revion,scrape,https://revion.inc,https://revion.inc,no,yc-seed,2026-07-22
+Samora AI,scrape,https://samora.ai/,https://samora.ai/,no,yc-seed,2026-07-22
+Pocket,scrape,https://heypocket.com/now,https://heypocket.com/now,no,yc-seed,2026-07-22
+Hub,scrape,https://hub.xyz,https://hub.xyz,no,yc-seed,2026-07-22
+KelAI,scrape,https://kelaitech.com/,https://kelaitech.com/,no,yc-seed,2026-07-22
+Callab AI,scrape,https://callab.ai,https://callab.ai,no,yc-seed,2026-07-22
+Gojiberry AI,scrape,https://www.gojiberry.ai,https://www.gojiberry.ai,no,yc-seed,2026-07-22
+Adialante,scrape,http://www.adialante.com,http://www.adialante.com,no,yc-seed,2026-07-22
+Complir,ashby,complir,https://complir.io/,yes,yc-seed,2026-07-22
+Minicor,ashby,Laminar,https://minicor.com,yes,yc-seed,2026-07-22
+Aseon Labs,scrape,https://www.aseonlabs.com/,https://www.aseonlabs.com/,no,yc-seed,2026-07-22
+Tasklet,scrape,https://tasklet.ai,https://tasklet.ai,no,yc-seed,2026-07-22
+CharacterQuilt,scrape,https://characterquilt.com,https://characterquilt.com,no,yc-seed,2026-07-22
+Manicule,scrape,https://manicule.dev,https://manicule.dev,no,yc-seed,2026-07-22
+Arlo Industries,ashby,arlo,https://arlo1.com/,yes,yc-seed,2026-07-22
+Huscarl,scrape,https://www.huscarl.io/,https://www.huscarl.io/,no,yc-seed,2026-07-22
+screenpipe,scrape,https://screenpipe.com,https://screenpipe.com,no,yc-seed,2026-07-22
+Ooak Data,scrape,https://ooakdata.com/,https://ooakdata.com/,no,yc-seed,2026-07-22
