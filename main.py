@@ -28,10 +28,15 @@ DRY_RUN = os.environ.get("DRY_RUN", "0") == "1" or not (TOKEN and CHAT)
 DAILY_CAP = int(os.environ.get("DAILY_CAP", "40"))
 
 HELP = ("👋 Commands:\n"
-        "/add <careers-url> — watch a company\n"
+        "/add [careers URL] — watch a company\n"
         "/list — show the watchlist\n"
-        "/remove <name> — stop watching\n"
+        "/remove [name] — stop watching\n"
         "/suggest — recently-funded companies to consider")
+
+
+def _h(s) -> str:
+    """Escape text going into an HTML Telegram message (names, etc.)."""
+    return (str(s) if s is not None else "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
 
 def _name_from_url(url: str) -> str:
@@ -50,39 +55,42 @@ def handle_commands(rows, today) -> bool:
     last_id = offset
     for u in updates:
         last_id = u.get("update_id")
-        msg = u.get("message") or u.get("channel_post") or {}
-        text = (msg.get("text") or "").strip()
-        chat_id = str((msg.get("chat") or {}).get("id", CHAT))
-        if not text:
-            continue
-        cmd, _, arg = text.partition(" ")
-        cmd, arg = cmd.lower(), arg.strip()
-        if cmd == "/add" and arg:
-            res = add_company(rows, _name_from_url(arg), arg, "telegram", today)
-            changed = True
-            if res["status"] == "added":
-                r = res["row"]; tg.send_message(TOKEN, chat_id, f"✓ Watching <b>{r['company_name']}</b> ({r['ats_type']})")
-            elif res["status"] == "duplicate":
-                tg.send_message(TOKEN, chat_id, "Already on the list.")
-            else:
-                tg.send_message(TOKEN, chat_id, "Added, but couldn't auto-detect the ATS — paste the direct board URL (Greenhouse/Lever/Ashby) if you have it.")
-        elif cmd == "/remove" and arg:
-            n = remove_company(rows, arg); changed = changed or n > 0
-            tg.send_message(TOKEN, chat_id, f"Removed {n} entr{'y' if n == 1 else 'ies'}.")
-        elif cmd == "/list":
-            act = active_companies(rows)
-            body = "\n".join(f"• {r['company_name']} ({r['ats_type']})" for r in act[:80]) or "empty"
-            tg.send_message(TOKEN, chat_id, f"<b>Watching {len(act)}:</b>\n{body}")
-        elif cmd == "/suggest":
-            try:
+        # Per-update guard: one bad message must never crash the whole digest,
+        # and the offset still advances so it isn't reprocessed forever.
+        try:
+            msg = u.get("message") or u.get("channel_post") or {}
+            text = (msg.get("text") or "").strip()
+            chat_id = str((msg.get("chat") or {}).get("id", CHAT))
+            if not text:
+                continue
+            cmd, _, arg = text.partition(" ")
+            cmd, arg = cmd.lower(), arg.strip()
+            if cmd == "/add" and arg:
+                res = add_company(rows, _name_from_url(arg), arg, "telegram", today)
+                changed = True
+                if res["status"] == "added":
+                    r = res["row"]
+                    tg.send_message(TOKEN, chat_id, f"✓ Watching <b>{_h(r['company_name'])}</b> ({_h(r['ats_type'])})")
+                elif res["status"] == "duplicate":
+                    tg.send_message(TOKEN, chat_id, "Already on the list.")
+                else:
+                    tg.send_message(TOKEN, chat_id, "Added, but couldn't auto-detect the ATS — paste the direct board URL (Greenhouse/Lever/Ashby) if you have it.")
+            elif cmd == "/remove" and arg:
+                n = remove_company(rows, arg); changed = changed or n > 0
+                tg.send_message(TOKEN, chat_id, f"Removed {n} entr{'y' if n == 1 else 'ies'}.")
+            elif cmd == "/list":
+                act = active_companies(rows)
+                body = "\n".join(f"• {_h(r['company_name'])} ({_h(r['ats_type'])})" for r in act[:80]) or "empty"
+                tg.send_message(TOKEN, chat_id, f"<b>Watching {len(act)}:</b>\n{body}")
+            elif cmd == "/suggest":
                 from funding import funding_candidates
                 c = funding_candidates()
-                body = "\n".join(f"• {x['company']}" for x in c[:15]) or "none found"
+                body = "\n".join(f"• {_h(x['company'])}" for x in c[:15]) or "none found"
                 tg.send_message(TOKEN, chat_id, f"<b>Recently funded — /add any:</b>\n{body}")
-            except Exception:
-                tg.send_message(TOKEN, chat_id, "Funding feed unavailable right now.")
-        elif cmd in ("/start", "/help"):
-            tg.send_message(TOKEN, chat_id, HELP)
+            elif cmd in ("/start", "/help"):
+                tg.send_message(TOKEN, chat_id, HELP)
+        except Exception as e:
+            print(f"  ! command failed on update {last_id}: {e}")
     if last_id is not None and updates:
         tg.save_offset(OFFSET, last_id + 1)
     return changed
