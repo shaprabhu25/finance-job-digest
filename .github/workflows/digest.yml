@@ -1,0 +1,44 @@
+name: Daily Digest
+
+on:
+  schedule:
+    - cron: "30 2 * * *"        # 08:00 IST daily. Alternate days: "30 2 */2 * *"
+  workflow_dispatch:            # lets you Run it manually from the Actions tab
+    inputs:
+      dry_run:
+        description: "Print cards instead of sending (test mode)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write               # allow the workflow to commit state back
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }}   # PAT so state commits count as activity
+                                          # -> keeps the schedule from auto-disabling at 60 days
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run digest
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          DRY_RUN: ${{ inputs.dry_run && '1' || '0' }}
+        run: python3 main.py
+
+      - name: Commit updated state
+        run: |
+          git config user.name  "job-digest-bot"
+          git config user.email "job-digest-bot@users.noreply.github.com"
+          git add -A state/ companies.csv
+          git commit -m "state: $(date -u +%F)" || echo "nothing to commit"
+          git push
