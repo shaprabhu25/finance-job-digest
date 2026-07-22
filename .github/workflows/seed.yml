@@ -1,0 +1,36 @@
+name: Seed Companies
+
+# Run manually (Actions tab -> Seed Companies -> Run workflow) to bulk-import
+# YC companies into companies.csv. Safe to re-run; already-added companies skip.
+
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Max new companies to process this run"
+        default: "250"
+
+permissions:
+  contents: write
+
+jobs:
+  seed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Seed from YC
+        env:
+          SEED_LIMIT: ${{ inputs.limit }}
+        run: python3 seed.py
+      - name: Commit registry
+        run: |
+          git config user.name  "job-digest-bot"
+          git config user.email "job-digest-bot@users.noreply.github.com"
+          git add -A companies.csv
+          git commit -m "seed: $(date -u +%F)" || echo "nothing to commit"
+          git push
