@@ -121,13 +121,27 @@ def run():
     new, dup, reseen = partition(kept, state)
     print(f"New: {len(new)} · cross-board dup: {len(dup)} · already-seen: {len(reseen)}")
 
+    # Heartbeat: on a quiet day still say something, so silence never reads as
+    # "it's broken". Only sent when there were genuinely no new roles.
+    quiet_msg = (f"✅ Checked {len(companies)} companies · "
+                 f"no new finance roles today.")
+
     if DRY_RUN:
         for j in new[:DAILY_CAP]:
             print("\n" + tg.format_card(j))
-        print(f"\n[DRY_RUN] would send {min(len(new), DAILY_CAP)} card(s)")
-    else:
+        if new:
+            print(f"\n[DRY_RUN] would send {min(len(new), DAILY_CAP)} card(s)")
+        else:
+            print(f"\n[DRY_RUN] would send heartbeat: {quiet_msg}")
+    elif new:
         n = tg.send_cards(TOKEN, CHAT, new, cap=DAILY_CAP)
         print(f"Sent {n} card(s)")
+    else:
+        try:
+            tg.send_message(TOKEN, CHAT, quiet_msg)
+            print("No new jobs — heartbeat sent.")
+        except Exception as e:
+            print(f"  ! heartbeat failed: {e}")
 
     commit(state, new, dup, reseen, today)
     state = prune(state, today)
